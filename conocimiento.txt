@@ -1,0 +1,114 @@
+¿Cómo estás?|Estoy muy bien, gracias por preguntar.
+¿Qué es un algoritmo?|Un algoritmo es una secuencia de pasos para resolver un problema.
+¿Quién inventó C++?|Bjarne Stroustrup creó el lenguaje C++.
+¿Para qué sirve un compilador?|Un compilador traduce código fuente a lenguaje máquina.
+¿En qué año se creó el lenguaje C?|El lenguaje C fue creado en 1972.
+¿Linux está escrito en C?|Sí, gran parte del núcleo de Linux está escrito en C.
+¿Qué es una variable?|Una variable almacena datos que pueden cambiar durante la ejecución del programa.
+¿Es C un lenguaje de alto nivel?|Sí, aunque tiene características de bajo nivel.
+¿Para qué sirve el puntero en C?|Sirve para almacenar direcciones de memoria.
+¿Se puede programar hardware con C?|Sí, especialmente en sistemas embebidos.
+¿Un for es una estructura de control?|Sí, permite repetir un bloque de código varias veces.
+¿Es C++ compatible con C?|En gran parte, sí; C++ es una extensión de C.
+¿Para qué sirve el operador & en C?|Sirve para obtener la dirección de una variable.
+¿Me quieres?|Si eres buen programador, por supuesto!
+¿Cómo saber si un procesador es compatible con una placa base?|Debes verificar que el socket del procesador coincida con el de la placa base, como AM4, LGA1700, etc.
+¿Qué es el socket de una CPU?|Es la conexión física entre el procesador y la placa base. Cada modelo de CPU tiene un tipo de socket específico.
+¿Una CPU Intel funciona en una placa base AMD?|No, las placas AMD son solo para procesadores AMD, e Intel solo para procesadores Intel.
+¿Cómo saber cuánta RAM soporta mi placa base?|Debes consultar las especificaciones del fabricante, donde se indica el tipo, la velocidad y la capacidad máxima soportada.
+¿Puedo usar RAM DDR4 en una placa DDR5?|No, las memorias DDR4 y DDR5 no son compatibles entre sí ni físicamente ni eléctricamente.
+¿Cómo comprobar la compatibilidad del chipset de la placa base con la CPU?|Revisa en la web del fabricante qué procesadores soporta cada chipset.
+¿Qué significa TDP en procesadores y refrigeración?|Es la potencia de diseño térmico; indica cuánto calor debe disipar el sistema de refrigeración.
+¿Puedo usar un disipador de Intel en un socket AMD?|Solo si incluye el kit de anclaje compatible con el socket.
+¿Qué es XMP y afecta la compatibilidad de la RAM?|XMP es un perfil de overclock que activa la RAM a su velocidad anunciada; la placa debe soportar XMP.
+¿Cómo saber si una fuente de poder es adecuada para mi GPU?|Suma el consumo de todos tus componentes y añade un margen de ~20 %, luego compara con el wattaje de la fuente.
+¿Qué certificación 80 Plus necesito para un PC gaming?|Al menos Bronze, aunque Gold o Platinum ofrecen mayor eficiencia.
+¿Puedo usar una fuente modular en cualquier gabinete?|Sí, siempre que el tamaño (ATX, SFX) coincida con el del gabinete.
+¿Cómo verificar la longitud máxima de GPU que admite mi gabinete?|Mide la distancia desde la bahía frontal hasta la bandeja de la placa y compárala con la longitud de la tarjeta gráfica.
+¿Qué ranuras PCIe debe tener la placa para una GPU moderna?|Una ranura PCIe x16 versión 3.0 o superior.
+¿Puedo instalar dos GPUs en paralelo en una placa sin SLI o CrossFire?|Sí, pero cada GPU funcionará de forma independiente, no en modo multi-GPU.
+¿Cómo saber si mi placa base soporta NVMe?|Comprueba que tenga ranura M.2 con interfaz PCIe x4 y que en BIOS esté habilitado NVMe.
+¿Puedo usar un SSD SATA en una ranura M.2?|Solo si la ranura admite SATA; muchas ranuras M.2 sólo aceptan NVMe.
+¿Qué factor de forma de SSD necesito para mi portátil?|Normalmente M.2 2280 o 2242; confirma en el manual del portátil.
+¿Cómo saber si mi chasis admite radiadores de refrigeración líquida?|Revisa espacio y puntos de montaje para radiadores de 120, 240, 360 mm.
+¿Qué tipo de cooler es mejor para Overclock?|Un AIO de 240 mm o superior, o un disipador de aire de alto rendimiento.
+¿Puedo usar memoria ECC en una placa no orientada a servidores?|Solo si la placa y el chipset lo soportan; suelen ser placas profesionales.
+¿Cómo verificar la compatibilidad de la BIOS con una CPU recién lanzada?|Mira en la web del fabricante si hay una versión de BIOS que añada soporte para esa CPU.
+¿Qué es el VRM de la placa base?|Módulos de regulación de voltaje; importantes para la estabilidad con CPUs potentes.
+¿Cómo saber si mi VRM es suficiente para Overclock?|Busca placas con fases de alimentación robustas (10+2, 12+2, etc.) y buenas radiaciones.
+¿Puedo mezclar módulos de RAM de distinta marca o capacidad?|Funciona, pero puede reducirse la estabilidad y la velocidad al mínimo común.
+¿Qué sucede si instalo RAM en ranuras incorrectas?|El sistema puede no arrancar o funcionar en modo de un solo canal, reduciendo el rendimiento.
+¿Cómo verificar la compatibilidad de M.2 con Wi‑Fi/Bluetooth?|Algunas ranuras M.2 Key E son para tarjetas Wi‑Fi; revisa el manual de la placa.
+¿Puedo usar un disipador pasivo en un GPU de alto rendimiento?|No se recomienda; el calor no se disipará adecuadamente.
+¿Cómo elegir ventiladores según la placa base?|Verifica conectores (3 pines vs PWM 4 pines) y potencias de salida.
+¿Qué son los headers ARGB y cuándo los necesito?|Conectores para tiras de LED direccionables; si quieres iluminación RGB controlada.
+¿Puedo usar una fuente de 12 V solo para LEDs y otra para el PC?|No, el PC debe estar conectado a una única fuente; para LEDs externos usa un controlador independiente.
+¿Cómo saber si un cooler entra debajo de mi GPU?|Mide altura desde el zócalo de la CPU hasta la base de la carcasa de la GPU.
+¿Qué es NVLink en GPUs NVIDIA?|Conexión de alta velocidad entre dos GPUs compatibles; requiere soporte de la placa y GPU.
+¿Puedo aprovechar USB-C del chasis si la placa no tiene interno?|No, necesita un header USB-C interno en la placa.
+¿Cómo comprobar compatibilidad del panel frontal del gabinete?|Confirma que los cables (HD Audio, USB 3.0/2.0) coinciden con los headers de la placa.
+¿Puedo usar un ventilador de 5 V en un header de 12 V?|Sí, pero girará muy rápido; mejor emplear un adaptador o header dedicado.
+¿Qué es la compatibilidad QVL de la placa base?|Lista de memorias testadas oficialmente por el fabricante para funcionar sin problemas.
+¿Cómo actualizar BIOS sin CPU instalada?|Algunas placas ofrecen BIOS Flashback; conecta la fuente y un USB con la BIOS renombrada.
+¿Puedo usar un cable SATA III en un puerto SATA II?|Sí, pero funcionará a la velocidad máxima de SATA II (3 Gb/s).
+¿Cómo saber si mi placa base soporta RAID?|Busca en las especificaciones soporte para RAID 0, 1, 5, 10 en los controladores SATA/NVMe.
+¿Puedo mezclar SSD SATA y NVMe en la misma placa?|Sí, suelen funcionar en paralelo si hay suficientes carriles PCIe y puertos SATA.
+¿Qué es el BIOS UEFI y por qué importa?|UEFI reemplaza BIOS tradicional; mejora arranque, soporta discos grandes y seguridad.
+¿Cómo saber si mi placa base tiene TPM integrado?|Revisa especificaciones o busca el header TPM para añadir un módulo.
+¿Puedo actualizar la memoria BIOS usando solo la batería CMOS?|No, necesitas energía de la fuente y el chip de BIOS accesible.
+¿Qué límite de potencia tiene un header de CPU en placas estándar?|Normalmente entre 8‑12 A por conector EPS 4+4 pines.
+¿Cómo verificar compatibilidad de HDMI/DisplayPort en GPU y monitor?|Coincidir versiones (1.4, 2.0, 2.1) para resoluciones y frecuencias deseadas.
+¿Puedo usar adaptadores DisplayPort a HDMI pasivos?|Sí, pero solo con GPUs que soporten señal dual-mode (DP++); de lo contrario, necesitas activo.
+¿Cómo saber si mi placa base tiene ranura U.2?|Muy pocas; mira en manual si aparece conector U.2 o SFF‑8639.
+¿Puedo instalar un HDD de 3.5" en bahías de 2.5"?|Con adaptadores, sí; de lo contrario busca bandejas compatibles.
+¿Qué es el conector EPS 12V en la placa base?|Es el conector de alimentación extra para la CPU, generalmente 4+4 pines.
+¿Cómo comprobar compatibilidad del bus DMI en Intel?|Bus interno entre chipset y CPU; revisa si la placa usa DMI 3.0 o 4.0 para anchos.
+¿Puedo usar una batería externa como UPS para la PC?|Sólo si ofrece salida de corriente continua adecuada y regulada a 12 V/5 V.
+¿Cómo saber si una carcasa soporta HDD 3.5" y 2.5"?|Revisa bahías y placas de montaje en el interior del gabinete.
+¿Puedo montar SSDs en bahías de ventiladores con adaptadores?|Sí, con soportes de 2.5" a 3.5" o bahías universales.
+¿Qué es la separación PCIe bifurcada (x8/x8)?|Cuando una ranura x16 se divide en dos x8 al usar múltiples tarjetas.
+¿Cómo comprobar compatibilidad de fuente para tarjetas gráficas duales?|Verifica que tenga dos conectores PCIe 6+2 pines y suficiente wattaje.
+¿Puedo usar adaptadores molex a SATA para alimentar SSD?|Sí, pero pierdes monitorización de estado S.M.A.R.T. vía SATA.
+¿Cómo saber si mi placa base admite M.2 RAID?|Busca en especificaciones “M.2 RAID” y carriles PCIe asignados.
+¿Puedo instalar ventiladores PWM en headers de 3 pines?|Sí, pero perderás control PWM y solo variará voltaje.
+¿Qué es el bus HyperTransport en AMD?|Bus interno para conectar CPU y chipset antiguas; relevancia baja en AM4/AM5.
+¿Cómo comprobar si el disipador cubre los puertos VRM?|Mira fotos oficiales y dimensiones del cooler y placas plásticas protectoras.
+¿Puedo usar un backplate de refrigeración líquida universal?|Solo si el fabricante lo indica compatible con tu socket.
+¿Cómo saber si la BIOS de mi placa soporta Secure Boot?|Revisa en opciones de UEFI o manual la presencia de “Secure Boot”.
+¿Puedo usar teclados USB 3.0 en puertos USB 2.0?|Sí, funcionan a la velocidad de USB 2.0.
+¿Cómo verificar compatibilidad de audio del gabinete?|Comprueba que el conector HD Audio del frontal coincida con el header de la placa.
+¿Puedo montar un HDD en un chasis de impresora 3D casero?|Sí, si la bandeja soporta tamaño, peso y disipación de calor.
+¿Cómo saber si mi placa base tiene limitaciones de ancho de banda PCIe?|Consulta el manual para ver distribución de carriles al usar múltiples dispositivos.
+¿Puedo usar adaptadores USB-C a USB-A para puertos frontales?|Sí, con cable interno adecuado, pero limitado a la versión USB disponible.
+¿Cómo comprobar compatibilidad de RGB entre placa y tiras LED?|Revisa si son ARGB (3 pines) o RGB estándar (4 pines) y el voltaje (5 V vs 12 V).
+¿Puedo usar SSD M.2 en portátil si está bloqueado por BIOS?|No, a menos que actualices BIOS o desbloquees mediante configuración.
+¿Cómo saber si mi caja chasis tiene filtro de polvo?|Mira especificaciones o fotos; suele haber bandejas extraíbles en entradas de aire.
+¿Puedo usar ventiladores grandes en aperturas pequeñas?|No, deben coincidir diámetros (120 mm, 140 mm).
+¿Cómo comprobar compatibilidad del conector JST en ventiladores preconectados?|Revisa si el cable es PWM (4 pines) o voltaje (3 pines).
+¿Puedo usar un cable de extensión para CPU EPS?|Sí, siempre que sea de calidad y con calibre adecuado (≥18 AWG).
+¿Cómo saber si mi placa base soporta memristors o futuras tecnologías?|No directamente; espera generaciones de placas diseñadas para ello.
+¿Puedo conectar un altavoz interno en header de ventilador?|No; necesita header de audio con alimentación y señal correcta.
+¿Cómo comprobar si mi placa base puede alimentar una bomba de líquido?|Verifica amperaje y voltaje máximo de header de bomba (PWM o molex).
+¿Puedo usar adaptadores Thunderbolt en placas sin soporte?|No, Thunderbolt requiere controlador dedicado y header específico.
+¿Cómo saber si mi PC admite overclock de GPU por BIOS?|Algunas BIOS de placa ofrecen controles de voltaje/clock, comprueba opciones de OC.
+¿Puedo instalar USB-C 3.2 Gen 2 en header USB 3.0 estándar?|No, necesita header USB-C específico o tarjeta adaptadora.
+¿Cómo verificar compatibilidad de disipadores de VRM en formato ITX?|Busca coolers diseñados para placas mini‑ITX que dejen espacio a VRM.
+¿Puedo usar SSD PCIe 5.0 en ranura PCIe 4.0?|Sí, funcionará a velocidad de PCIe 4.0.
+¿Cómo saber si mi placa base tiene ranuras SO-DIMM?|Solo algunas placas mini‑ITX para sistemas compactos, revisa el manual.
+¿Puedo mezclar módulos de RAM DDR4 de distintas velocidades?|Sí, pero todas funcionarán a la velocidad del módulo más lento.
+¿Cómo comprobar compatibilidad de baterías CMOS?|Casi todas usan CR2032, pero verifica espacio y alojamiento.
+¿Puedo usar cable de alimentación EPS 8 pines en conector de 4 pines?|No, el conector no encajará; necesitas EPS 4+4 pines.
+¿Cómo saber si mi placa puede arrancar desde red (PXE)?|Revisa en UEFI/BIOS opción “Boot from LAN” o “PXE”.
+¿Puedo usar adaptadores SATA a U.2 para SSD?|Sí, con cable SFF‑8639 a SATAe/M.2 dependiendo del SSD.
+¿Cómo comprobar compatibilidad de modos de arranque (Legacy/UEFI)?|Revisa en BIOS si soporta CSM (Compatibility Support Module).
+¿Puedo usar ventiladores PWM en hubs molex sin PWM?|Girarán a velocidad máxima constante.
+¿Cómo saber si mi placa tiene ranuras libres para M.2 adicionales?|Consulta el diagrama de la placa en el manual y los carriles disponibles.
+¿Puedo usar un disipador pasivo en VRM sin ventilación adicional?|No es recomendable; puede sobrecalentarse.
+¿Cómo comprobar si mi caja soporta HDD de 5 TB o más?|El tamaño físico es el mismo; importa la ventilación y bandejas de soporte.
+¿Puedo usar backplate universal para socket AM5 en AM4?|No, los agujeros de montaje difieren.
+¿Cómo saber si mi GPU requiere alimentación externa?|Mira si tiene conectores PCIe 6/8 pines; si no, tira todo su consumo por la ranura.
+¿Puedo conectar dos ventiladores en un solo header usando un splitter?|Sí, si el header suministra suficiente corriente para ambos.
+¿Cómo comprobar compatibilidad de audio S/PDIF en placas base?|Busca header o salida óptica en el panel trasero especificada como S/PDIF.
+¿Puedo usar un SSD M.2 NVMe en adaptador PCIe x4?|Sí, siempre que el adaptador proporcione carriles PCIe suficientes.
+¿Cómo saber si mi placa base soporta cascos USB-C con DAC integrado?|Revisa especificaciones de audio y soporte de USB-C en panel frontal.
+¿Puedo actualizar mi placa base sin cambiar gabinete?|Sí, mientras el factor de forma (ATX, mATX, ITX) sea el mismo.
